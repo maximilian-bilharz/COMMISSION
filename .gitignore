@@ -1,4 +1,4 @@
-*.o
-*.a
-main-sb*
-main-lb*
+./*.o
+./*.a
+./main-sb*
+./main-lb*
